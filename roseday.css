@@ -9,7 +9,7 @@ body {
     width: 400px;
     height: 495px;
     border: 10px solid #ef5050;
-    margin: 160px auto 0 50%;
+    margin: 560px auto 0 50%;
     -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
             box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
     background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(rgba(255, 255, 255, 0))), url("assets/photo2.jpg");
